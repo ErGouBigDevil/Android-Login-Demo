@@ -8,8 +8,7 @@
     <string name="create_account_text">Create a new account</string>
     <string name="sign_up_text">Sign Up</string>
     <string name="go_to_login">Go To Login</string>
-    <string name="copyright_text">©2020 USTS Haodong Zhao. All rights reserved.</string>
     <string name="copyright_text_p2">All rights reserved.</string>
-    <string name="copyright_text_p1">©2020 USTS Haodong Zhao.</string>
+    <string name="copyright_text_p1">©2020 ErGouBigDevil</string>
     <string name="have_an_account">Already have an account?</string>
 </resources>
